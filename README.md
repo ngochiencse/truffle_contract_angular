@@ -1,4 +1,5 @@
 # TruffleContractAngular
+This project's purpose is to demo issue of @truffle/contract library on angular: https://github.com/trufflesuite/truffle/issues/4618
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
